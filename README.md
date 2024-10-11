@@ -3,9 +3,13 @@ Hello, my name is Dylan Paynter! <br>
 
 You may reach me at (410) 870-9178 or dillyptg@gmail.com. <br>
 
-Feel free to check out the latest happenings and most up to date resume on my GitHub: https://github.com/Ethical-Dyl
+Feel free to check out the latest happenings and most up to date resume on my GitHub: https://github.com/Ethical-Dyl?tab=repositories
+***
+<br> 
+
 
 ## Work Experience 
+
 
 **Special Projects Engineer**
 <table><tr><td>
@@ -70,16 +74,12 @@ Lightship Security INC <br>
 Austin, TX <br>
 6/2021 - 8/2022 <br> <br>
 
-My role consists of evaluating and testing the newest technologies such as firewalls, mobile device management
-softwares, password management softwares, printers, routers, and more for vendors (FortiNet, Microsoft,
-CyberArk, Xerox, Google) for security analysis and compliance obligations against multiple international and
-national security standards.
+My role consists of evaluating and testing the newest technologies such as firewalls, mobile device management software, password management software, printers, routers, and more for vendors (Fortinet, Microsoft, CyberArk, Xerox, Google) for security analysis and compliance obligations against multiple international and national security standards.
 
-I also led my team by conducting vulnerability analysis and remediation, CVE searches, and vulnerability
-documentation, ensuring that the vendor understands the vulnerabilities that are known to the public as well as
-vulnerabilities that may be found during internal testing.
+I also led my team by conducting vulnerability analysis and remediation, CVE searches, and vulnerability documentation, ensuring that the vendor understands the vulnerabilities that are known to the public as well as vulnerabilities that may be found during internal testing.
+In my year at Lightship Security INC, I worked hands on with every US based project. Learning the Common Criteria ins and outs and becoming my lab manager's right-hand man. I was one of two employees that was charged with maintaining and installing all equipment both internal and products for testing. I successfully created testing parameters and worked on all documentation that was submitted to my Lab Manager as well as NIAP.
 
-In my year at Lightship Security INC, I worked hands on with every US based project. Learning the Common Criteria ins and outs and becoming my lab manager's right hand man. I was one of two employees that was charged with maintining and installing all equipment both internal and products for testing. I successfully created testing parameters and worked on all documentation that was submitted to my Lab Manager as well as NIAP.
+
 </td></tr></table>
  <br>
 
@@ -124,7 +124,7 @@ Well Services equipment.
 6. Continually develop competency in the Electronics Department. Assists in the training and provides self-study
 documentation to ET1s, ET2s and ET3s.
 7. Participate in the District HSE & Quality program.
-8. Has an understanding of well-site operations as well as the application and operating conditions of USWS
+8. Have an understanding of well-site operations as well as the application and operating conditions of USWS
 equipment.
 9. Perform a Risk Analysis before each job or task to identify & address potential safety hazards. Corrects and
 reports hazards immediately.
@@ -168,13 +168,15 @@ duplex, ribbon, distribution, and loose tube, while also mass and fusion splicin
 Produce and test copper cables, punch them down, route and pull them, and the basic and advanced uses of a
 soldering iron.
 
-Awarded with numerous letters of appreciation and certificates of appreciation for outstanding leadership
+Awarded with numerous letters of appreciation and certificates of appreciation for outstanding leadership.
 
  <br> <br>
  </td></tr></table>
-  <br>
-  
-**Education**
+
+
+---
+
+<h2>Education</h2>
 <table><tr><td>
   
   <b>California Institute of Arts and Technology San Diego, CA United States</b><br> Associate's degree 6 / 2022<br> Major: Networking Minor: Cybersecurity<br> <br> 
@@ -183,22 +185,24 @@ Awarded with numerous letters of appreciation and certificates of appreciation f
   
   <b>Relevant Coursework, Licenses and Certifications:</b>
   
-  During my time in my associates I completed the following certifications along with working a full time job and completing my degree:<br> <br> 1. CompTIA ITF+<br> 2. Security+ce<br> 3. EC-Council Certified Ethical Hacker<br>
+  During my time in my associates I completed the following certifications along with working a full time job and completing my degree:<br> <br> 1. CompTIA ITF+<br> 2. CompTIA Security+ce<br> 3. EC-Council Certified Ethical Hacker<br>
   
   <h2>Job Related Training:</h2> Fiber Optics Schooling - Completed 2018/6/20
   
   
   </td></tr></table>
 
-**Hobbies**
+
+---
+
+<h2>Hobbies</h2>
   <table><tr><td>
   
   <b> Fitness </b><br>
-  I am a gold medal Powerlifter, winning the biggest powerlifting competition in Texas 2023. I enjoy staying healthy as well as working out and being outdoors with others. For a while I put on many fitness events teaching those young and old in the communities I have lived in 
-  on how to stay healthy and how to use proper lifting technique. <br><br>
+  I am a gold medal awarded Powerlifter, winning the most competitive powerlifting competition in Texas 2023. I enjoy staying healthy as well as working out and being outdoors with others. I also put on fitness events teaching those young and old in the community showcasing how to stay healthy and how to use proper lifting technique. <br><br>
  
   <b> Game Developement </b> <br> 
-  In expanding on my knowledge on how to write good clean code I am learning how to meake a game that my children will be able to play once they are old enough! Game development has taught me how important it is to write good clean code that does not leave any ambiguous statements or functions as I or others may forget what they mean later. It has also taught me that testing is extremely important and being able to monitore resources is a crucial part as well. <br><br>
+  To help expand on my knowledge on how to write good clean code I am currently learning how to make a game that my children will be able to play once they are old enough! Game development has taught me how important it is to write good clean code that does not leave any ambiguous statements or functions as I or others may forget what they mean later. It has also taught me that testing is extremely important and being able to monitor resources is a crucial part as well. <br><br>
 
   <b> World Of Warcraft </b> <br>
   I not new to MMORPGs I have been playing Wow (on and off again) since middle school. I enjoy playing a multitude of classes however Arcane Mage always has my heart! 
